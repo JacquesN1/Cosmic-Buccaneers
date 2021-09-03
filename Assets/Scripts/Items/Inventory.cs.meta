@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fdeb9cfc133381d439651f8c6a8443e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bitsObj: {fileID: 1369467034969983836, guid: c9db67be35f0bd642af762f5a463187d,
+      type: 3}
+  - foodObj: {fileID: 429389384351014372, guid: e1fe3ceba434b0949ab9aa7bad9fe5cf,
+      type: 3}
+  - scrapObj: {fileID: 1847541342875034952, guid: dade731a380ef8c4aa392a440fa69120,
+      type: 3}
+  - goodsObj: {fileID: 3128888799885541343, guid: a0d388b51f80e4a4fbf100aab050a080,
+      type: 3}
+  - ammoObj: {fileID: 5772335194272773425, guid: e0b213db60906f549b6e33bc9c893e78,
+      type: 3}
+  - energyObj: {fileID: 660418523026889867, guid: 7a5af655f2842b54a917199fad7c9fc8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
